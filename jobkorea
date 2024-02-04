@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HaYoung_JobKorea</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Jade website template">
+    <meta name="keywords" content="apollo, jade, template, html, sass, jquery">
+    <meta name="author" content="Bucky Maler">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+
+  
+  <body>
+       
+     
+
+       <center>
+       <div class="photographer">
+        <img src="https://i.postimg.cc/HngjDY81/Head-Motion.gif" width="70%" height="auto" alt="Photographer"></div>
+      </div>
+
+       <div class="wrapper">
+          <img src="https://ifh.cc/g/hnHMCN.png" width="70%" height="auto" alt="Camera"></div>
+        </div>
+
+        <div class="wrapper">
+          <img src="https://ifh.cc/g/PMT3MJ.jpg" width="70%" height="auto" alt="Camera"></div>
+        </div>
+
+        <div class="wrapper">
+          <img src="https://ifh.cc/g/tKNnAR.jpg" width="70%" height="auto" alt="Camera"></div>
+        </div>
+
+        <tr>
+          <td style="line-height:0px; background-color:#fff;" >
+              <img src="https://ifh.cc/g/rDOsvA.jpg" width="70%" height="auto"  alt=""></a></td>
+      </tr>
+        
+        <tr>
+          <td style="line-height:0px; background-color:#fff;" ><a href="https://youtu.be/c0rX0pTI2J8?si=xtbEN1BYZoeWX8Bj" target="_blank">
+              <img src="https://ifh.cc/g/COKPsB.jpg" width="70%" height="auto" alt=""></a></td>
+      </tr>
+  
+
+        <tr>
+          <td style="line-height:0px; background-color:#fff;" ><a href="https://youtu.be/cY2U20x2Hnk" target="_blank">
+              <img src="https://ifh.cc/g/JQNFRd.jpg" width="70%" height="auto" alt=""></a></td>
+      </tr>
+
+      <tr>
+        <td style="line-height:0px; background-color:#fff;" ><a href="https://youtu.be/PBfB3catErc?si=w4XtoMlPARB_q-3c" target="_blank">
+            <img src="https://ifh.cc/g/gR9YZW.jpg" width="70%" height="auto" alt=""></a></td>
+    </tr>
+      
+      <tr>
+        <td style="line-height:0px; background-color:#fff;" ><a href="https://lenovotab.netlify.app/" target="_blank">
+            <img src="https://ifh.cc/g/yJAdQC.jpg" width="70%" height="auto" alt=""></a></td>
+    </tr>
+
+    <tr>
+      <td style="line-height:0px; background-color:#fff;" ><a href="https://drgracelab.com/product/%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B9%84-%EB%B9%84%EB%88%84/84/category/44/display/1/#none" target="_blank">
+          <img src="https://ifh.cc/g/30Cn1x.jpg" width="70%" height="auto" alt=""></a></td>
+  </tr>
+
+  <tr>
+    <td style="line-height:0px; background-color:#fff;" ><a href="https://youtu.be/nFTsbgNXzFI?si=KBqOSM-S0NJ8H2c3" target="_blank">
+        <img src="https://ifh.cc/g/Zr8XA3.jpg" width="70%" height="auto" alt=""></a></td>
+
+      </tr>
+
+      <tr>
+        <td style="line-height:0px; background-color:#fff;" >
+            <img src="https://ifh.cc/g/6mQOlj.jpg" width="70%" height="auto" alt=""></a></td>
+    
+          </tr>
+
+      <tr>
+        <td style="line-height:0px; background-color:#fff;" >
+            <img src="https://ifh.cc/g/qvm3aF.jpg" width="70%" height="auto" alt=""></a></td>
+    </tr>
+
+      </center>
+
+  </body>
+</html>
